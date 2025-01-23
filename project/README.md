@@ -1,6 +1,6 @@
 # Recursive Process Filesystem Project
 
-This project is an assignment for the [Operating Systems](https://cs.unibuc.ro/~pirofti/so.html) class, and represents a pseudo-filesystem built using FUSE, that follows the structure of the system's processes. Please keep in mind that this pseudo-filesystem works only on Linux.
+This project was an assignment for the [Operating Systems](https://cs.unibuc.ro/~pirofti/so.html) class, built together with @neacsumihai2005, and represents a pseudo-filesystem built using FUSE, that follows the structure of the system's processes. Please keep in mind that this pseudo-filesystem works only on Linux.
 
 ## Prerequisites
 
